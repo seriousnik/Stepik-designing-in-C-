@@ -1,0 +1,10 @@
+C:\Users\Nik\Downloads\Memory.Timers.csproj\bin\Debug\Memory.Timers.exe.config
+C:\Users\Nik\Downloads\Memory.Timers.csproj\bin\Debug\Memory.Timers.exe
+C:\Users\Nik\Downloads\Memory.Timers.csproj\bin\Debug\Memory.Timers.pdb
+C:\Users\Nik\Downloads\Memory.Timers.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Nik\Downloads\Memory.Timers.csproj\bin\Debug\nunitlite.dll
+C:\Users\Nik\Downloads\Memory.Timers.csproj\obj\Debug\Memory.Timers.csprojAssemblyReference.cache
+C:\Users\Nik\Downloads\Memory.Timers.csproj\obj\Debug\Memory.Timers.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Downloads\Memory.Timers.csproj\obj\Debug\Memory.Timers.csproj.CopyComplete
+C:\Users\Nik\Downloads\Memory.Timers.csproj\obj\Debug\Memory.Timers.exe
+C:\Users\Nik\Downloads\Memory.Timers.csproj\obj\Debug\Memory.Timers.pdb

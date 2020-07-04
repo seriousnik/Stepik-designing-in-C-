@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Streams.Resources.exe" fullname="C:/Users/Nik/Downloads/Streams.Resources.csproj/bin/Debug/Streams.Resources.exe" testcasecount="4" result="Passed" start-time="2020-06-29 14:46:34Z" end-time="2020-06-29 14:46:34Z" duration="0.047835" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="7" random-seed="1886489531">
+  <command-line><![CDATA["C:\Users\Nik\Downloads\Streams.Resources.csproj\bin\Debug\Streams.Resources.exe"   ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1005" name="Streams.Resources.exe" fullname="C:/Users/Nik/Downloads/Streams.Resources.csproj/bin/Debug/Streams.Resources.exe" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-06-29 14:46:34Z" end-time="2020-06-29 14:46:34Z" duration="0.047835" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="7">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Nik\Downloads\Streams.Resources.csproj\bin\Debug" machine-name="DESKTOP-D9LB59L" user="Nik" user-domain="DESKTOP-D9LB59L" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\Nik\Downloads\Streams.Resources.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="12" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14676" />
+      <property name="_APPDOMAIN" value="Streams.Resources.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1006" name="Streams" fullname="Streams" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-06-29 14:46:34Z" end-time="2020-06-29 14:46:34Z" duration="0.038932" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="7">
+      <test-suite type="TestSuite" id="1007" name="Resources" fullname="Streams.Resources" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-06-29 14:46:34Z" end-time="2020-06-29 14:46:34Z" duration="0.035368" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="7">
+        <test-suite type="TestFixture" id="1000" name="ResourceStream_should" fullname="Streams.Resources.ResourceStream_should" classname="Streams.Resources.ResourceStream_should" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-06-29 14:46:34Z" end-time="2020-06-29 14:46:34Z" duration="0.031547" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="7">
+          <test-case id="1001" name="ReadKey1" fullname="Streams.Resources.ResourceStream_should.ReadKey1" methodname="ReadKey1" classname="Streams.Resources.ResourceStream_should" runstate="Runnable" seed="606220769" result="Passed" start-time="2020-06-29 14:46:34Z" end-time="2020-06-29 14:46:34Z" duration="0.010731" asserts="2" />
+          <test-case id="1002" name="ReadKey2" fullname="Streams.Resources.ResourceStream_should.ReadKey2" methodname="ReadKey2" classname="Streams.Resources.ResourceStream_should" runstate="Runnable" seed="820082699" result="Passed" start-time="2020-06-29 14:46:34Z" end-time="2020-06-29 14:46:34Z" duration="0.000360" asserts="2" />
+          <test-case id="1003" name="ReadKey3" fullname="Streams.Resources.ResourceStream_should.ReadKey3" methodname="ReadKey3" classname="Streams.Resources.ResourceStream_should" runstate="Runnable" seed="456671400" result="Passed" start-time="2020-06-29 14:46:34Z" end-time="2020-06-29 14:46:34Z" duration="0.000604" asserts="2" />
+          <test-case id="1004" name="ReadUnknownKey" fullname="Streams.Resources.ResourceStream_should.ReadUnknownKey" methodname="ReadUnknownKey" classname="Streams.Resources.ResourceStream_should" runstate="Runnable" seed="293246612" result="Passed" start-time="2020-06-29 14:46:34Z" end-time="2020-06-29 14:46:34Z" duration="0.001061" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

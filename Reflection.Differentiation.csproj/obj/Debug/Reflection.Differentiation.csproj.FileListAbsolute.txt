@@ -1,0 +1,10 @@
+C:\Users\Nik\Downloads\Reflection.Differentiation.csproj\bin\Debug\Reflection.Differentiation.exe.config
+C:\Users\Nik\Downloads\Reflection.Differentiation.csproj\bin\Debug\Reflection.Differentiation.exe
+C:\Users\Nik\Downloads\Reflection.Differentiation.csproj\bin\Debug\Reflection.Differentiation.pdb
+C:\Users\Nik\Downloads\Reflection.Differentiation.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Nik\Downloads\Reflection.Differentiation.csproj\bin\Debug\nunitlite.dll
+C:\Users\Nik\Downloads\Reflection.Differentiation.csproj\obj\Debug\Reflection.Differentiation.csprojAssemblyReference.cache
+C:\Users\Nik\Downloads\Reflection.Differentiation.csproj\obj\Debug\Reflection.Differentiation.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Downloads\Reflection.Differentiation.csproj\obj\Debug\Reflection.Differentiation.csproj.CopyComplete
+C:\Users\Nik\Downloads\Reflection.Differentiation.csproj\obj\Debug\Reflection.Differentiation.exe
+C:\Users\Nik\Downloads\Reflection.Differentiation.csproj\obj\Debug\Reflection.Differentiation.pdb

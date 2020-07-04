@@ -1,0 +1,10 @@
+C:\Users\Nik\Downloads\Streams.Resources.csproj\bin\Debug\Streams.Resources.exe.config
+C:\Users\Nik\Downloads\Streams.Resources.csproj\bin\Debug\Streams.Resources.exe
+C:\Users\Nik\Downloads\Streams.Resources.csproj\bin\Debug\Streams.Resources.pdb
+C:\Users\Nik\Downloads\Streams.Resources.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Nik\Downloads\Streams.Resources.csproj\bin\Debug\nunitlite.dll
+C:\Users\Nik\Downloads\Streams.Resources.csproj\obj\Debug\Streams.Resources.csprojAssemblyReference.cache
+C:\Users\Nik\Downloads\Streams.Resources.csproj\obj\Debug\Streams.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Downloads\Streams.Resources.csproj\obj\Debug\Streams.Resources.csproj.CopyComplete
+C:\Users\Nik\Downloads\Streams.Resources.csproj\obj\Debug\Streams.Resources.exe
+C:\Users\Nik\Downloads\Streams.Resources.csproj\obj\Debug\Streams.Resources.pdb

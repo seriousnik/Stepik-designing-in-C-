@@ -1,0 +1,10 @@
+C:\Users\Nik\Downloads\Delegates.Observers.csproj\bin\Debug\Delegates.Observers.exe.config
+C:\Users\Nik\Downloads\Delegates.Observers.csproj\bin\Debug\Delegates.Observers.exe
+C:\Users\Nik\Downloads\Delegates.Observers.csproj\bin\Debug\Delegates.Observers.pdb
+C:\Users\Nik\Downloads\Delegates.Observers.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Nik\Downloads\Delegates.Observers.csproj\bin\Debug\nunitlite.dll
+C:\Users\Nik\Downloads\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.csprojAssemblyReference.cache
+C:\Users\Nik\Downloads\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Downloads\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.csproj.CopyComplete
+C:\Users\Nik\Downloads\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.exe
+C:\Users\Nik\Downloads\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.pdb

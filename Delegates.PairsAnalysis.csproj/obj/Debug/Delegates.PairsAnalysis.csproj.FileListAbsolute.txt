@@ -1,0 +1,10 @@
+C:\Users\Nik\Downloads\Delegates.PairsAnalysis.csproj\bin\Debug\Delegates.PairsAnalysis.exe.config
+C:\Users\Nik\Downloads\Delegates.PairsAnalysis.csproj\bin\Debug\Delegates.PairsAnalysis.exe
+C:\Users\Nik\Downloads\Delegates.PairsAnalysis.csproj\bin\Debug\Delegates.PairsAnalysis.pdb
+C:\Users\Nik\Downloads\Delegates.PairsAnalysis.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Nik\Downloads\Delegates.PairsAnalysis.csproj\bin\Debug\nunitlite.dll
+C:\Users\Nik\Downloads\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.csprojAssemblyReference.cache
+C:\Users\Nik\Downloads\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Downloads\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.csproj.CopyComplete
+C:\Users\Nik\Downloads\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.exe
+C:\Users\Nik\Downloads\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.pdb

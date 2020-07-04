@@ -1,0 +1,10 @@
+C:\Users\Nik\Downloads\Inheritance\obj\Debug\Inheritance.DataStructure.csprojAssemblyReference.cache
+C:\Users\Nik\Downloads\Inheritance\obj\Debug\Inheritance.DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Downloads\Inheritance\bin\Debug\Inheritance.DataStructure.exe.config
+C:\Users\Nik\Downloads\Inheritance\bin\Debug\Inheritance.DataStructure.exe
+C:\Users\Nik\Downloads\Inheritance\bin\Debug\Inheritance.DataStructure.pdb
+C:\Users\Nik\Downloads\Inheritance\bin\Debug\nunit.framework.dll
+C:\Users\Nik\Downloads\Inheritance\bin\Debug\nunitlite.dll
+C:\Users\Nik\Downloads\Inheritance\obj\Debug\Inheritance.DataStructure.csproj.CopyComplete
+C:\Users\Nik\Downloads\Inheritance\obj\Debug\Inheritance.DataStructure.exe
+C:\Users\Nik\Downloads\Inheritance\obj\Debug\Inheritance.DataStructure.pdb

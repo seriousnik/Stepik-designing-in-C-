@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Memory.Timers.exe" fullname="C:/Users/Nik/Downloads/Memory.Timers.csproj/bin/Debug/Memory.Timers.exe" testcasecount="5" result="Failed" start-time="2020-06-19 15:47:49Z" end-time="2020-06-19 15:47:49Z" duration="0.065866" total="5" passed="0" failed="5" inconclusive="0" skipped="0" asserts="0" random-seed="1387329845">
+  <command-line><![CDATA["C:\Users\Nik\Downloads\Memory.Timers.csproj\bin\Debug\Memory.Timers.exe"   ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="Memory.Timers.exe" fullname="C:/Users/Nik/Downloads/Memory.Timers.csproj/bin/Debug/Memory.Timers.exe" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2020-06-19 15:47:49Z" end-time="2020-06-19 15:47:49Z" duration="0.065866" total="5" passed="0" failed="5" warnings="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Nik\Downloads\Memory.Timers.csproj\bin\Debug" machine-name="DESKTOP-D9LB59L" user="Nik" user-domain="DESKTOP-D9LB59L" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\Nik\Downloads\Memory.Timers.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="12" />
+    </settings>
+    <properties>
+      <property name="_PID" value="23932" />
+      <property name="_APPDOMAIN" value="Memory.Timers.exe" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1007" name="Memory" fullname="Memory" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2020-06-19 15:47:49Z" end-time="2020-06-19 15:47:49Z" duration="0.056980" total="5" passed="0" failed="5" warnings="0" inconclusive="0" skipped="0" asserts="0">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="1008" name="Timers" fullname="Memory.Timers" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2020-06-19 15:47:49Z" end-time="2020-06-19 15:47:49Z" duration="0.053450" total="5" passed="0" failed="5" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestFixture" id="1000" name="Timer_should" fullname="Memory.Timers.Timer_should" classname="Memory.Timers.Timer_should" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2020-06-19 15:47:49Z" end-time="2020-06-19 15:47:49Z" duration="0.049446" total="5" passed="0" failed="5" warnings="0" inconclusive="0" skipped="0" asserts="0">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1001" name="WorkInSimplestCase" fullname="Memory.Timers.Timer_should.WorkInSimplestCase" methodname="WorkInSimplestCase" classname="Memory.Timers.Timer_should" runstate="Runnable" seed="1805814146" result="Failed" start-time="2020-06-19 15:47:49Z" end-time="2020-06-19 15:47:49Z" duration="0.023906" asserts="0">
+            <failure>
+              <message><![CDATA[Your string 
+                   : 0
+ does not match pattern \*[ ]{19}: (\d+)\n]]></message>
+              <stack-trace><![CDATA[в Memory.Timers.Timer_should.Validate(String expected) в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 22
+в Memory.Timers.Timer_should.WorkInSimplestCase() в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 33
+]]></stack-trace>
+            </failure>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[Your string 
+                   : 0
+ does not match pattern \*[ ]{19}: (\d+)\n]]></message>
+                <stack-trace><![CDATA[в Memory.Timers.Timer_should.Validate(String expected) в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 22
+в Memory.Timers.Timer_should.WorkInSimplestCase() в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 33
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1004" name="WorkWithDeepNesting" fullname="Memory.Timers.Timer_should.WorkWithDeepNesting" methodname="WorkWithDeepNesting" classname="Memory.Timers.Timer_should" runstate="Runnable" seed="1410333790" result="Failed" start-time="2020-06-19 15:47:49Z" end-time="2020-06-19 15:47:49Z" duration="0.000867" asserts="0">
+            <failure>
+              <message><![CDATA[Your string 
+                   : 0
+A                  : 0
+    B              : 0
+        C          : 0
+ does not match pattern A[ ]{19}: (\d+)\n[ ]{4}B[ ]{15}: (\d+)\n[ ]{8}C[ ]{11}: (\d+)\n[ ]{8}Rest[ ]{8}: (\d+)\n[ ]{4}Rest[ ]{12}: (\d+)\n]]></message>
+              <stack-trace><![CDATA[в Memory.Timers.Timer_should.Validate(String expected) в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 22
+в Memory.Timers.Timer_should.WorkWithDeepNesting() в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 80
+]]></stack-trace>
+            </failure>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[Your string 
+                   : 0
+A                  : 0
+    B              : 0
+        C          : 0
+ does not match pattern A[ ]{19}: (\d+)\n[ ]{4}B[ ]{15}: (\d+)\n[ ]{8}C[ ]{11}: (\d+)\n[ ]{8}Rest[ ]{8}: (\d+)\n[ ]{4}Rest[ ]{12}: (\d+)\n]]></message>
+                <stack-trace><![CDATA[в Memory.Timers.Timer_should.Validate(String expected) в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 22
+в Memory.Timers.Timer_should.WorkWithDeepNesting() в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 80
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1003" name="WorkWithNesting" fullname="Memory.Timers.Timer_should.WorkWithNesting" methodname="WorkWithNesting" classname="Memory.Timers.Timer_should" runstate="Runnable" seed="1263648011" result="Failed" label="Error" start-time="2020-06-19 15:47:49Z" end-time="2020-06-19 15:47:49Z" duration="0.002251" asserts="0">
+            <failure>
+              <message><![CDATA[System.ArgumentOutOfRangeException : Значение "count" не может быть отрицательным.
+Имя параметра: count]]></message>
+              <stack-trace><![CDATA[   в System.String.CtorCharCount(Char c, Int32 count)
+   в Memory.Timers.Timer.Start(String str) в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer.cs:строка 24
+   в Memory.Timers.Timer_should.WorkWithNesting() в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 57]]></stack-trace>
+            </failure>
+          </test-case>
+          <test-case id="1005" name="WorkWithNestingAndGiveCorrectTime" fullname="Memory.Timers.Timer_should.WorkWithNestingAndGiveCorrectTime" methodname="WorkWithNestingAndGiveCorrectTime" classname="Memory.Timers.Timer_should" runstate="Runnable" seed="1520928492" result="Failed" label="Error" start-time="2020-06-19 15:47:49Z" end-time="2020-06-19 15:47:49Z" duration="0.000539" asserts="0">
+            <failure>
+              <message><![CDATA[System.ArgumentOutOfRangeException : Значение "count" не может быть отрицательным.
+Имя параметра: count]]></message>
+              <stack-trace><![CDATA[   в System.String.CtorCharCount(Char c, Int32 count)
+   в Memory.Timers.Timer.Start(String str) в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer.cs:строка 24
+   в Memory.Timers.Timer_should.WorkWithNestingAndGiveCorrectTime() в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 94]]></stack-trace>
+            </failure>
+          </test-case>
+          <test-case id="1002" name="WorkWithTimerName" fullname="Memory.Timers.Timer_should.WorkWithTimerName" methodname="WorkWithTimerName" classname="Memory.Timers.Timer_should" runstate="Runnable" seed="1139127325" result="Failed" label="Error" start-time="2020-06-19 15:47:49Z" end-time="2020-06-19 15:47:49Z" duration="0.000354" asserts="0">
+            <failure>
+              <message><![CDATA[System.ArgumentOutOfRangeException : Значение "count" не может быть отрицательным.
+Имя параметра: count]]></message>
+              <stack-trace><![CDATA[   в System.String.CtorCharCount(Char c, Int32 count)
+   в Memory.Timers.Timer.Start(String str) в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer.cs:строка 24
+   в Memory.Timers.Timer_should.WorkWithTimerName() в C:\Users\Nik\Downloads\Memory.Timers.csproj\Timer_should.cs:строка 42]]></stack-trace>
+            </failure>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
